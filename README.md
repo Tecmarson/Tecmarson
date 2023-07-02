@@ -17,22 +17,6 @@
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-332FD0?style=for-the-badge&logo=figma&logoColor=white">
 </div> </br>
 
-## Estudando 
-<img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=F7D060">
-As técnicas e tecnologias utilizadas no projeto são:
-
-- `Expo`: tecnologia para simplificar o ambiente de desenvolvimento
-- `Componentes React Native`: componentes já existentes básicos da tecnologia para compor a tela
-  - `Text`: componente para exibir textos
-  - `View`: container para blocos de componentes
-  - `ScrollView`: container para blocos de componentes com barra de rolagem
-  - `Image`: componente para exibir imagens
-  - `TouchableOpacity`: componente para criar áreas clicáveis
-- `Componentes customizados`: criação e utilização de componentes customizados
-- `Suporte a telas`: não permitir que conteúdos estejam sob a *StatusBar* (barra superior nativa) ou barra de gestos do iPhone
-- `Expo Google Fonts`: suporte a fontes do google via Expo
-- `StyleSheet`: estilização básica de componentes
-- `Dimensions`: captura de dados das dimenções da tela
 
 
 ## Contatos </br>
