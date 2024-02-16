@@ -1,6 +1,6 @@
 # Olá! Me chamo Emerson e sou estudante de programação 💻
 
-> Estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá, sou mais um apaixonado por tecnologia. Escolhi atuar no mundo da programção porquê acho divertido e desafiador criar soluções dinâmicas e criativas. 
+> Estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá, sou mais um apaixonado por tecnologia. 
 
 ![Tecmarson GitHub stats](https://github-readme-stats.vercel.app/api?username=Tecmarson&show_icons=true&theme=)</br>
 
