@@ -1,15 +1,12 @@
 # Olá! Me chamo Emerson e sou estudante de programação 💻
 
-> Estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá, sou mais um apaixonado por tecnologia. 
+> Estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá.
 
 ![Tecmarson GitHub stats](https://github-readme-stats.vercel.app/api?username=Tecmarson&show_icons=true&theme=)</br>
 
 ## Tecnologias que eu uso
 
 <div style="display: inline_block">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CCS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-332FD0?style=for-the-badge&logo=figma&logoColor=white">
